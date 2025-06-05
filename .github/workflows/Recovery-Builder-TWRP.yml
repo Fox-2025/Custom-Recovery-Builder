@@ -99,7 +99,6 @@ jobs:
             liblz4-tool \
             libncurses-dev \
             libsdl1.2-dev \
-            libwxgtk3.2-dev \
             libxml2 \
             lzop \
             pngcrush \
